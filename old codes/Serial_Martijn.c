@@ -111,5 +111,3 @@ int COM_Recv(char * OUT_Data){
     }
 }
 
-
-//some comment
