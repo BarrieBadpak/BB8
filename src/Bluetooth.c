@@ -5,6 +5,7 @@
 #include <unistd.h>
 #include <fcntl.h>
 #include <termios.h>
+#include "Bluetooth.h"
 
 #define Serial_Port "/dev/rfcomm0"
 #define Serial_Baud B115200

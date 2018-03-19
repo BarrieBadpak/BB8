@@ -1,5 +1,5 @@
 
-int uart0_filestream;
+extern int uart0_filestream;
 
 void UART();
 char * COM_Recv();
